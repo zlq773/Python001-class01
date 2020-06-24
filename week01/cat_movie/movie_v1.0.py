@@ -6,6 +6,7 @@ import pandas as pd
 
 
 
+
 def get_movie_info():
     url = 'https://maoyan.com/board'
     USER_AGENT_LIST = [
